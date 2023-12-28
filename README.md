@@ -5,7 +5,7 @@
 </div>
 </br>
 This study aims to develop a method for mold detection in white bread using visual analysis. Mold detection in bread using the YOLO (You Only Look Once) method involves the use of deep learning algorithms to recognize and classify mold in white bread images.
-
+</br>
 Dataset Detection mold on bread: [Download Dataset](https://app.roboflow.com/muhammad-lazuardi-harahap/detection-mold-on-bread/1)
 </br>
 ## <h4>Steps Covered in this Tutorial</h4>
