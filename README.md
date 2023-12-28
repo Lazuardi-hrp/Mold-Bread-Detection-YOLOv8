@@ -8,8 +8,10 @@ This study aims to develop a method for mold detection in white bread using visu
 </br>
 Dataset Detection mold on bread: [Download Dataset](https://app.roboflow.com/muhammad-lazuardi-harahap/detection-mold-on-bread/1)
 </br>
-## <h4>Steps Covered in this Tutorial</h4>
 
+## Steps Covered in this Tutorial
+
+Steps Covered in this Tutorial
 In this tutorial, we are going to cover:
 
 - Before you start
